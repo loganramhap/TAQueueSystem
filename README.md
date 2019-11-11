@@ -7,20 +7,20 @@ Contact me for access to the repo.
 Wooooo!
 
 List of things we're gonna do:
-Publically visible queue/n
-One submission at a time/n
-Google login/n
-Data Analytics (excel export)/n
-Pushback on bad question/n
-Autolab submission reference (number)/n
-API views/n
-Edit submission in queue/n
-Related resources/n
-Feedback (both directions)/n
-Limit submissions at certain times/n
-TA’s can cancel office hours in systems/n
-Office hour calendar/n
-Select office hour to make ticket for (half hour ahead) (once a week, for that week)/n
-TA: caught in traffic, gonna be a second late/n
-FEED/n
+Publically visible queue
+One submission at a time
+Google login
+Data Analytics (excel export)
+Pushback on bad question
+Autolab submission reference (number)
+API views
+Edit submission in queue
+Related resources
+Feedback (both directions)
+Limit submissions at certain times
+TA’s can cancel office hours in systems
+Office hour calendar
+Select office hour to make ticket for (half hour ahead) (once a week, for that week)
+TA: caught in traffic, gonna be a second late
+FEED
 
