@@ -6,7 +6,7 @@ Contact me for access to the repo.
 
 Wooooo!
 
-##List of things we're gonna do:
+List of things we're gonna do:
 
 Publically visible queue
 
